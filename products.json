@@ -1,0 +1,58 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "fields":{
+                "product_name":"Kids Dress Mid Denim",
+                "product_price":150,
+                "product_image":"../images/dress.avif",
+                "added_to_cart":false
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "fields":{
+                "product_name":"Men's Leather Look Coat",
+                "product_price":460,
+                "product_image":"../images/Jacket.avif",
+                "added_to_cart":false
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "fields":{
+                "product_name":"Micro Cord Pant",
+                "product_price":120,
+                "product_image":"../images/pants.avif",
+                "added_to_cart":false
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "fields":{
+                "product_name":"VEJA Venturi Trainers",
+                "product_price":76,
+                "product_image":"../images/shoes.avif",
+                "added_to_cart":false
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "fields":{
+                "product_name":"Womens Wool Shawl",
+                "product_price":90,
+                "product_image":"../images/Wool-shawl.avif",
+                "added_to_cart":false
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "fields":{
+                "product_name":"women's coat",
+                "product_price":370,
+                "product_image":"../images/coat.avif",
+                "added_to_cart":false
+            }
+        }
+    ]
+}
